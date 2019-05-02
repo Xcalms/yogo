@@ -1,2 +1,2 @@
 # yogo
-Bot ini dapat menclaim otomatis coin !
+auto claim yogo video
